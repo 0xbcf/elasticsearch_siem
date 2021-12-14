@@ -1,0 +1,6 @@
+*.log
+deploy.sh
+*.pyc
+config.ini
+venv
+.idea
